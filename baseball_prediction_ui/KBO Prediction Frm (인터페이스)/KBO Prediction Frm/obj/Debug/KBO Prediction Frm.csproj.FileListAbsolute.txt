@@ -1,0 +1,16 @@
+C:\Users\lab401\Desktop\KBO Prediction Frm\KBO Prediction Frm\bin\Debug\KBO Prediction Frm.exe.config
+C:\Users\lab401\Desktop\KBO Prediction Frm\KBO Prediction Frm\bin\Debug\KBO Prediction Frm.exe
+C:\Users\lab401\Desktop\KBO Prediction Frm\KBO Prediction Frm\bin\Debug\KBO Prediction Frm.pdb
+C:\Users\lab401\Desktop\KBO Prediction Frm\KBO Prediction Frm\obj\Debug\KBO Prediction Frm.csprojAssemblyReference.cache
+C:\Users\lab401\Desktop\KBO Prediction Frm\KBO Prediction Frm\obj\Debug\KBO_Prediction_Frm.Form1.resources
+C:\Users\lab401\Desktop\KBO Prediction Frm\KBO Prediction Frm\obj\Debug\KBO_Prediction_Frm.Properties.Resources.resources
+C:\Users\lab401\Desktop\KBO Prediction Frm\KBO Prediction Frm\obj\Debug\KBO Prediction Frm.csproj.GenerateResource.cache
+C:\Users\lab401\Desktop\KBO Prediction Frm\KBO Prediction Frm\obj\Debug\KBO Prediction Frm.csproj.CoreCompileInputs.cache
+C:\Users\lab401\Desktop\KBO Prediction Frm\KBO Prediction Frm\obj\Debug\KBO Prediction Frm.exe
+C:\Users\lab401\Desktop\KBO Prediction Frm\KBO Prediction Frm\obj\Debug\KBO Prediction Frm.pdb
+C:\Users\lab401\Desktop\KBO Prediction Frm\KBO Prediction Frm\bin\Debug\Google.Protobuf.dll
+C:\Users\lab401\Desktop\KBO Prediction Frm\KBO Prediction Frm\bin\Debug\MySql.Data.dll
+C:\Users\lab401\Desktop\KBO Prediction Frm\KBO Prediction Frm\bin\Debug\Google.Protobuf.xml
+C:\Users\lab401\Desktop\KBO Prediction Frm\KBO Prediction Frm\bin\Debug\MySql.Data.xml
+C:\Users\lab401\Desktop\KBO Prediction Frm\KBO Prediction Frm\obj\Debug\KBO Prediction Frm.csproj.CopyComplete
+C:\Users\lab401\Desktop\KBO Prediction Frm\KBO Prediction Frm\obj\Debug\KBO_Prediction_Frm.Form2.resources
