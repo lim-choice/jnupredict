@@ -1,9 +1,0 @@
-D:\졸업작품\baseball_prediction_ui\bin\Debug\baseball_prediction_ui.exe
-D:\졸업작품\baseball_prediction_ui\bin\Debug\baseball_prediction_ui.pdb
-D:\졸업작품\baseball_prediction_ui\obj\Debug\baseball_prediction_ui.Form1.resources
-D:\졸업작품\baseball_prediction_ui\obj\Debug\baseball_prediction_ui.Properties.Resources.resources
-D:\졸업작품\baseball_prediction_ui\obj\Debug\baseball_prediction_ui.csproj.GenerateResource.cache
-D:\졸업작품\baseball_prediction_ui\obj\Debug\baseball_prediction_ui.csproj.CoreCompileInputs.cache
-D:\졸업작품\baseball_prediction_ui\obj\Debug\baseball_prediction_ui.exe
-D:\졸업작품\baseball_prediction_ui\obj\Debug\baseball_prediction_ui.pdb
-D:\졸업작품\baseball_prediction_ui\obj\Debug\baseball_prediction_ui.csprojAssemblyReference.cache
